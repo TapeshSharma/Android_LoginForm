@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">LoginDatabase</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_account">AccountActivity</string>
+    <string name="title_activity_join">Join</string>
+    <string name="title_activity_success">Success</string>
+    
+    <string name="header"> FRIENDS</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="hint">a@g.c</string>
+    <string name="hint1">A,a,1,@</string>
+    <string name="button">SUBMIT</string>
+    <string name="button1">CREATE ACCOUNT</string>
+    <string name="name">Name:</string>
+    <string name="address">Address:</string>
+    <string name="mobile">Mobile No:</string>
+    <string name="success">You are succesfully login</string>
+    <string name="join">WelCome to FRIENDS </string> 
+</resources>
